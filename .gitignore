@@ -1,0 +1,6 @@
+__vscode__
+__pycache__
+secrets.toml
+data/*
+cache/*
+hidden.txt

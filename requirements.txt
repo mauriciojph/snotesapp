@@ -1,0 +1,10 @@
+streamlit-drawable-canvas
+streamlit-code-editor
+streamlit_extras
+svgpathtools
+streamlit
+pillow
+numpy
+typst
+tomli
+dill
